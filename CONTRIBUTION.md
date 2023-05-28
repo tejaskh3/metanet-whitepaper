@@ -20,7 +20,7 @@ Thank you for your interest in contributing to the Metanet Browser Extension pro
    9. References
 
    When creating an issue, use the following syntax:
-   - Create an issue titled "ADD/EDIT - [Topic]" and provide a brief description of the content you plan to cover.
+   - Create an issue titled "added/edited - [Topic]" and provide a brief description of the content you plan to cover.
 
 3. Once your proposed white paper contribution has been approved or assigned, start working on it  in your branch.
 
