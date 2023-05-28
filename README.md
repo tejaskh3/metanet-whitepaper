@@ -12,7 +12,8 @@ The Metanet Browser Extension is a software project designed to extend the funct
 - User Interface and Browser Integration: Offers a user-friendly interface integrated with web browsers.
 
 ### Workflow
-As you all know week second is to create a whitepaper for all the following thing given below. So, I would like to request you to read (contribution guidlines)[/CONTRIBUTION.md]
+As you all know, the second step is to create a whitepaper for all the following things given below. So, I would like to request you to **read the [Contribution Guidelines](CONTRIBUTION.md) for more details**. Go through it before contributing.
+
 
 - [Problem Statement](#problem-statement)
 - [Problem Background](#problem-background)
@@ -28,7 +29,8 @@ As you all know week second is to create a whitepaper for all the following thin
 
 The existing web browsing experience lacks an effective solution for interacting with decentralized applications (DApps) built on top of the Bitcoin blockchain. Users face challenges in securely storing, accessing, and sharing data within these DApps. Additionally, there is a need for a user-friendly interface, in the form of a website or extension, that simplifies the interaction with Bitcoin-based DApps and provides seamless integration for storing and sharing data securely.
 
-Feel free to further customize and refine this problem statement to accurately represent the specific problem your Chrome/Firefox browser extension aims to solve.
+Feel free to further customize and refine this problem statement to accurately represent the specific problem statement.
+
 ...
 
 ## Problem Background
